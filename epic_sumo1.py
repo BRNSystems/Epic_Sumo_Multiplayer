@@ -27,7 +27,7 @@ players_defined = 0
 connected = 0
 global Player1
 global Player2
-uri = "ws://brn.systems:8765"
+uri = "ws://127.0.0.1:8765"
 global websocket
 
 async def write_players(arrx):
